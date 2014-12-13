@@ -1,4 +1,4 @@
-PHP-Smtp-Object
+PHP-SmtpObject
 ===============
 
 PHP SMPT Mail Object with PHPMailer Object
